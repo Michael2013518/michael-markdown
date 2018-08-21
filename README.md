@@ -72,4 +72,4 @@ printf("Hello, Markdown.");
 
 参考式：  
 > [Markdown语法][1]
-> [1]::https://github.com/Michael2013518 "Markdown"
+> [1]:https:://github.com/Michael2013518 "Markdown"
