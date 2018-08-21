@@ -33,7 +33,7 @@ Markdown语法主要分为如下几大部分： 标题，段落，区块引用�
 
 ## 4. 代码区块  
 代码区块的建立是在每行加上4个空格或者一个制表符（如同写代码一样）。  
-    void main()
-    {
-    printf("Hello, Markdown.");
-    }
+void main()    
+{    
+printf("Hello, Markdown.");    
+}    
