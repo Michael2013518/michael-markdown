@@ -63,3 +63,13 @@ printf("Hello, Markdown.");
 分割线最常使用就是三个或以上*，还可以使用-和_。
 
 ***
+
+## 8. 链接  
+链接可以由两种形式生成：行内式和参考式。
+
+行内式：  
+> [Markdown语法](https://github.com/Michael2013518)  
+
+参考式：  
+> [Markdown语法][1]
+> [1]:https://github.com/Michael2013518
